@@ -9,7 +9,7 @@
 
 ```yaml
 owner: cecilia
-pages_url: https://github.com/cecilia871231/ai-newsletter   # 내 GitHub Pages 주소. 저장소 Settings → Pages에서 확인
+pages_url: https://cecilia871231.github.io/ai-newsletter/   # 내 GitHub Pages 주소. 저장소 Settings → Pages에서 확인
 cadence: 매일 아침 08:00 (Asia/Seoul)
 interests:                      # 관심사 = 탭. 추가/삭제 자유. 2~5개 권장.
   - id: news
